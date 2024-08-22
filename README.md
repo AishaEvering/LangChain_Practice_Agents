@@ -9,7 +9,7 @@
 
 ## 📃 Description
 
-This is a simple console application that accepts user input and maintains a 'memory' of the conversation, ensuring the LLM retains context.
+An example of using an `AgentExecutor` to prompt the LLM to answer questions using data from a database and respond not only in text but also with HTML documents."  ❄️Brrrr...it's getting cool in here.❄️
 
 ## Core Concepts Practiced
 - Conversation Summary Memory: Is a feature that helps an AI or chatbot remember the important parts of a conversation. Instead of just remembering everything said, it focuses on summarizing the key points so the AI can keep track of the main topics and context, making future interactions more coherent and relevant.
